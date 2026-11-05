@@ -1,0 +1,29 @@
+{
+  "batch1": {
+    "file_id": "5c86c0b5fa2ede00015ddf66",
+    "filename": "2017-05-12_batchdata_updated_struct_errorcorrect.mat",
+    "size_bytes": 3025320241,
+    "size_mb": 2885.17,
+    "created": "2019-03-11T20:10:29.227000+00:00",
+    "download_url": "https://data.matr.io/1/api/v1/file/5c86c0b5fa2ede00015ddf66/download",
+    "project_url": "https://data.matr.io/1/projects/5c48dd2bc625d700019f3204"
+  },
+  "batch2": {
+    "file_id": "5c86bf13fa2ede00015ddd82",
+    "filename": "2017-06-30_batchdata_updated_struct_errorcorrect.mat",
+    "size_bytes": 2007331155,
+    "size_mb": 1914.34,
+    "created": "2019-03-11T20:03:31.759000+00:00",
+    "download_url": "https://data.matr.io/1/api/v1/file/5c86bf13fa2ede00015ddd82/download",
+    "project_url": "https://data.matr.io/1/projects/5c48dd2bc625d700019f3204"
+  },
+  "batch3": {
+    "file_id": "5c86bd64fa2ede00015ddbb2",
+    "filename": "2018-04-12_batchdata_updated_struct_errorcorrect.mat",
+    "size_bytes": 3236690412,
+    "size_mb": 3086.75,
+    "created": "2019-03-11T19:56:19.827000+00:00",
+    "download_url": "https://data.matr.io/1/api/v1/file/5c86bd64fa2ede00015ddbb2/download",
+    "project_url": "https://data.matr.io/1/projects/5c48dd2bc625d700019f3204"
+  }
+}

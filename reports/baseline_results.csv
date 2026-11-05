@@ -1,0 +1,19 @@
+model,seed_size_N,test_cohort,mae_cycles,rmse_cycles,r2_score,medae_cycles,mean_std_log10,coverage_95_pct,mean_rel_uncert
+BayesianRidge,10,Test 1 (Primary),140.82,237.35,0.6318,94.98,0.0748,90.7,0.3611
+BayesianRidge,10,Test 2 (Out-of-Dist),286.18,373.37,-0.5014,202.44,0.0692,57.5,0.3178
+BayesianRidge,10,Combined Test (83 cells),210.87,310.44,0.3576,134.3,0.0721,74.7,0.3402
+GaussianProcess,10,Test 1 (Primary),143.7,248.79,0.5955,93.37,0.0829,90.7,0.4099
+GaussianProcess,10,Test 2 (Out-of-Dist),292.27,380.34,-0.5579,208.62,0.0759,60.0,0.3496
+GaussianProcess,10,Combined Test (83 cells),215.3,319.03,0.3216,135.33,0.0795,75.9,0.3808
+BayesianRidge,15,Test 1 (Primary),119.82,179.42,0.7896,81.81,0.0655,86.05,0.3107
+BayesianRidge,15,Test 2 (Out-of-Dist),229.56,313.57,-0.059,174.12,0.0639,65.0,0.2925
+BayesianRidge,15,Combined Test (83 cells),172.71,253.11,0.573,115.9,0.0647,75.9,0.302
+GaussianProcess,15,Test 1 (Primary),121.57,184.81,0.7768,84.9,0.0724,88.37,0.3626
+GaussianProcess,15,Test 2 (Out-of-Dist),232.04,316.79,-0.0808,176.83,0.0678,67.5,0.3113
+GaussianProcess,15,Combined Test (83 cells),174.81,257.02,0.5597,115.6,0.0702,78.31,0.3378
+BayesianRidge,20,Test 1 (Primary),84.22,122.31,0.9022,71.04,0.0793,97.67,0.3865
+BayesianRidge,20,Test 2 (Out-of-Dist),163.03,238.23,0.3888,119.94,0.0759,92.5,0.3498
+BayesianRidge,20,Combined Test (83 cells),122.2,187.35,0.766,78.08,0.0777,95.18,0.3688
+GaussianProcess,20,Test 1 (Primary),81.93,120.41,0.9052,66.49,0.0953,97.67,0.8212
+GaussianProcess,20,Test 2 (Out-of-Dist),163.81,238.25,0.3886,123.88,0.0803,92.5,0.3713
+GaussianProcess,20,Combined Test (83 cells),121.39,186.73,0.7676,80.72,0.0881,95.18,0.6044
